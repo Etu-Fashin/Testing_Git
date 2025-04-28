@@ -6,3 +6,4 @@ print("Hola git y github 11111")
 =======
 #esto es un comentario que se va a ir borrando
 >>>>>>> 148a012 (Coment deleyte)
+# jhonatan eres una perra
